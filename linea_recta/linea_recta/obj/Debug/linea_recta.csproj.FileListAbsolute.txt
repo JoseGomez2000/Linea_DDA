@@ -1,0 +1,10 @@
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\bin\Debug\linea_recta.exe.config
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\bin\Debug\linea_recta.exe
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\bin\Debug\linea_recta.pdb
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.csproj.AssemblyReference.cache
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.Form1.resources
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.Properties.Resources.resources
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.csproj.GenerateResource.cache
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.exe
+C:\Users\Yordan\Documents\graficacion_visual\linea_recta\linea_recta\obj\Debug\linea_recta.pdb
